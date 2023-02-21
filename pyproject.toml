@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "markdown_image_replacer"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="panzhongxian", email="panzhongxian0532@gmail.com" },
 ]
